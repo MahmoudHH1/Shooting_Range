@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Game.cpp
+  Generating Code...
+Bullet.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+OpenGL3DTemplate\Debug\Target.obj : warning LNK4042: object specified more than once; extras ignored
+  OpenGL3DTemplate.vcxproj -> D:\Uni\graphics\Assignment2\Debug\OpenGL3DTemplate.exe
